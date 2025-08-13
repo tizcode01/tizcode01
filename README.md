@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tiziano Arnold from Untervaz in Switzerland 🎇🫕<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning with the Developer Akademie<br>- ⚡ In my free time I code, train and write books</p>
+<p align="left">I'm Tiziano Arnold from Untervaz in Switzerland 🎇🫕<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning with the Developer Akademie<br>- ⚡ In my free time I code, train, read and write books</p>
 
 ###
 
